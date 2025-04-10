@@ -395,7 +395,7 @@
 			<CommonModule>УведомленияКлиент</CommonModule>
 			<CommonModule>УведомленияСервер</CommonModule>
 			<CommonModule>Коннектор</CommonModule>
-			<CommonModule>МойМодуль1</CommonModule>
+			<CommonModule>РаботаСПокупателями</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
