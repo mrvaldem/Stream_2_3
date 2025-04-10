@@ -397,6 +397,7 @@
 			<CommonModule>Коннектор</CommonModule>
 			<CommonModule>РаботаСПокупателями</CommonModule>
 			<CommonModule>РаботаСПользователями</CommonModule>
+			<CommonModule>РаботаСТоварами</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
