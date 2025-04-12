@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Количество активных пользователей в моменте больше 100"
+    id="id-933967422f384276b3b2c4fcdf7bb139"/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Денег нет"
+    id="id-9d194c10bb5e4efdb9574587a61c1220">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-2723bb3c97ac49b189d13c98d4770640.xml#id-2723bb3c97ac49b189d13c98d4770640"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-2dc3e42c7fab4741a90df31fcacf6325.xml#id-2dc3e42c7fab4741a90df31fcacf6325"/>
+</archimate:TriggeringRelationship>

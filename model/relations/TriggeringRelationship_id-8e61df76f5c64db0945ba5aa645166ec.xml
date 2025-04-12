@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="POST"
+    id="id-8e61df76f5c64db0945ba5aa645166ec">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-34c5424ad827485ab255cb90f543dc95.xml#id-34c5424ad827485ab255cb90f543dc95"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-678440cee9374816a0751bcfdc94ece6.xml#id-678440cee9374816a0751bcfdc94ece6"/>
+</archimate:TriggeringRelationship>

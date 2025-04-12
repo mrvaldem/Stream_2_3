@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Отправка документа на согласование"
+    id="id-0fabac5c85e447daa286b3ed78db48b7">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-005d7abe08874d37abf8715b134de8da.xml#id-005d7abe08874d37abf8715b134de8da"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-5420fc3b4bdf49b3a49fa53e6ce0e2af.xml#id-5420fc3b4bdf49b3a49fa53e6ce0e2af"/>
+</archimate:TriggeringRelationship>

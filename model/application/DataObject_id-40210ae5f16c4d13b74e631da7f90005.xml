@@ -1,0 +1,18 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee"
+    id="id-40210ae5f16c4d13b74e631da7f90005"
+    documentation="{&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;}">
+  <properties
+      key="name"
+      value="123"/>
+  <properties
+      key="code"
+      value="123"/>
+  <properties
+      key="employee1111"
+      value="123dddd"/>
+  <properties
+      key="name"
+      value="dsadadas"/>
+</archimate:DataObject>
